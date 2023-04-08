@@ -2,7 +2,8 @@
  I am a backend developer<br/>
  To contact me:
  <a href ='https://www.facebook.com/profile.php?id=100089671944041&mibextid=ZbWKwL'><img src="https://i.pinimg.com/originals/0c/e6/06/0ce6061c72025cb98854de1ae1bed392.png" height = "37px"></a>
-https://flyclipart.com/thumb2/ikonka-telegram-png-png-image-398306.png
+  <a href ='https://t.me/MuhammadaliWebDeveloper'><img src="https://flyclipart.com/thumb2/ikonka-telegram-png-png-image-398306.png" height = "37px"></a>
+
 ### Languages and tools I'm currently working with:
 <code><img src="https://4.bp.blogspot.com/-BjX4NGeiKn8/VUYx2BIXUBI/AAAAAAAAASQ/pidAWKmH940/s1600/zvAAkmQm.jpeg" height = "37px"></code>
 <code><img src="https://luxe-host.ru/wp-content/uploads/3/1/6/316df50bcf36dccbe19dd219abf85b16.png" width = "30px"></code>
