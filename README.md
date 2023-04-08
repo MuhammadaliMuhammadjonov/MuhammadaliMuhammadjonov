@@ -7,4 +7,7 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width = "30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width = "50px"></code>
 <code><img src="https://pluspng.com/img-png/laravel-logo-png-laravel-logos-img-4846x1198.png" width = "100px"></code>
+<br/>
+
+-  <img src="https://media0.giphy.com/media/CNHwfdaHPNYQPzAIoS/giphy.gif?cid=ecf05e47irrzwelxju99yaat4gcomcl776xzhwpoxa20uzmy&rid=giphy.gif&ct=g" width = "30px"> Current location: Fergana, Uzbekistan  
 
