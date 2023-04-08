@@ -1,7 +1,8 @@
 ###  Hi, I'm Muhammadjonov Muhammadali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30px"> <br/>
  I am a backend developer<br/>
  To contact me:
- <a href ='https://www.facebook.com/profile.php?id=100089671944041&mibextid=ZbWKwL'><img src="https://i.pinimg.com/originals/0c/e6/06/0ce6061c72025cb98854de1ae1bed392.png" height = "20px"></a>
+ <br/>
+ <a href ='https://www.facebook.com/profile.php?id=100089671944041&mibextid=ZbWKwL'><img src="https://i.pinimg.com/originals/0c/e6/06/0ce6061c72025cb98854de1ae1bed392.png" height = "35px"></a>
  <a href ='https://t.me/MuhammadaliWebDeveloper'><img src="https://flyclipart.com/thumb2/ikonka-telegram-png-png-image-398306.png" height = "37px"></a>
 
 ### Languages and tools I'm currently working with:
