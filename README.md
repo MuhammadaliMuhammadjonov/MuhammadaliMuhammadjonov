@@ -9,5 +9,5 @@
 <code><img src="https://pluspng.com/img-png/laravel-logo-png-laravel-logos-img-4846x1198.png" width = "100px"></code>
 <br/>
 
--  <img src="https://media2.giphy.com/media/4mML4cVNOKVakSy649/giphy.gif?cid=ecf05e47ydo7c8n08u4lpjwh2s3k0ak1mffrwfwu8pymvm3f&rid=giphy.gif&ct=s" height = "10px"> Current location: Fergana, Uzbekistan  
+-  <img src="https://media2.giphy.com/media/4mML4cVNOKVakSy649/giphy.gif?cid=ecf05e47ydo7c8n08u4lpjwh2s3k0ak1mffrwfwu8pymvm3f&rid=giphy.gif&ct=s" height = "20px"> Current location: Fergana, Uzbekistan  
 
