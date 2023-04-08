@@ -4,7 +4,7 @@
  <br/>
  <a href ='https://www.facebook.com/profile.php?id=100089671944041&mibextid=ZbWKwL'><img src="https://i.pinimg.com/originals/0c/e6/06/0ce6061c72025cb98854de1ae1bed392.png" height = "35px"></a>
  <a href ='https://t.me/MuhammadaliWebDeveloper'><img src="https://flyclipart.com/thumb2/ikonka-telegram-png-png-image-398306.png" height = "37px"></a>
- <a href ='https://t.me/MuhammadaliWebDeveloper'><img src="https://www.pngitem.com/pimgs/m/51-510512_clip-art-istagram-logo-instagram-icon-for-youtube.png" height = "37px"></a>
+ <a href ='https://instagram.com/muhammadali_8681?igshid=ZDdkNTZiNTM='><img src="https://www.pngitem.com/pimgs/m/51-510512_clip-art-istagram-logo-instagram-icon-for-youtube.png" height = "34px"></a>
 
 
 ### Languages and tools I'm currently working with:
